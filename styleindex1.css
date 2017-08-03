@@ -1,3 +1,7 @@
 .custom {
     height: 100vh;
 }
+
+.custom .card m-5{
+    width: 22rem;
+}
